@@ -1,0 +1,23 @@
+[
+    {
+        "titre": "Systeme.io",
+        "categorie": "Outil",
+        "vendeur": "Systeme.io",
+        "mots_cles": ["Systeme.io", "systeme io", "Système io", "SIO"],
+        "url": "https://www.keskesavo.fr/systeme-io"
+    },
+    {
+        "titre": "Cédric Floris",
+        "categorie": "Partenaire",
+        "vendeur": "Cédric Floris",
+        "mots_cles": ["Cédric Floris", "cedric floris", "cédric"],
+        "url": "https://www.keskesavo.fr/cedric-floris"
+    }
+    {
+        "titre": "Académie de l'affiliation",
+        "categorie": "Formation",
+        "vendeur": "Gabriel Miguet",
+        "mots_cles": ["Académie affiliation", "formation affiliation", "gabriel miguet"],
+        "url": "https://www.keskesavo.fr/academie-de-l-affiliation"
+    }
+]
