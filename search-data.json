@@ -33,4 +33,26 @@
         ],
         "url": "https://www.keskesavo.fr/academie-de-l-affiliation"
     }
+    {
+        "titre": "Reines de l'affiliation",
+        "categorie": "Formation",
+        "vendeur": "Emma ambitions féminines",
+        "mots_cles": [
+            "Reines affiliation",
+            "Emma",
+            "ambitions féminines"
+        ],
+        "url": "https://www.keskesavo.fr/reines-de-l-affiliation"
+    },
+    {
+        "titre": "Gabriel Miquet",
+        "categorie": "Partenaire",
+        "vendeur": "Gabriel Miquet",
+        "mots_cles": [
+            "Gabriel Miquet",
+            "affiliation",
+            "formation"
+        ],
+        "url": "https://www.keskesavo.fr/gabriel-miquet"
+    },
 ]
