@@ -23,6 +23,17 @@
         "url": "https://www.keskesavo.fr/cedric-floris"
     },
     {
+        "titre": "iziquiz",
+        "categorie": "Outil",
+        "vendeur": "Cédric et Béné",
+        "mots_cles": [
+            "iziquiz",
+            "logiciel quiz",
+            "logiciel iziquiz"
+        ],
+        "url": "https://www.keskesavo.fr/iziquiz"
+    },
+    {
         "titre": "Académie de l'affiliation",
         "categorie": "Formation",
         "vendeur": "Gabriel Miguet",
