@@ -12,6 +12,18 @@
         "url": "https://www.keskesavo.fr/systeme-io"
     },
     {
+        "titre": "Trafic Flow",
+        "categorie": "Formation",
+        "vendeur": "Béné",
+        "mots_cles": [
+            "Traficflow",
+            "Trafic flow",
+            "affiliation",
+            "bot"
+        ],
+        "url": "https://www.keskesavo.fr/traficflow"
+    },
+    {
         "titre": "Hotmart",
         "categorie": "Outil",
         "vendeur": "Hotmart",
